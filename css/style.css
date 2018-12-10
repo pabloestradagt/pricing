@@ -1,0 +1,32 @@
+.height {
+    height: 89vh;
+}
+
+h1 {
+    margin-left: 55px;
+}
+
+.email {
+    margin-left: 30px;
+}
+
+.name {
+    margin-left: 5px;
+}
+
+textarea {
+    margin-left: 10px;
+}
+
+.form-row {
+    margin-left: 25px;
+}
+
+button {
+    margin-left: 55px;
+}
+
+.cuadro img {
+    width: 1000px;
+    margin-left: 13%;
+}
